@@ -95,7 +95,7 @@ def num_summary(dataframe, numerical_col, plot=False):
     if plot:
         dataframe[numerical_col].hist()
         plt.xlabel(numerical_col)
-        plt.title(numerical_col)
+        plt.title("{} Histogram Graph.png".format(numerical_col.capitalize()))
         plt.savefig("{} Histogram Graph.png".format(numerical_col.capitalize()))
         plt.show(block=True)
 
