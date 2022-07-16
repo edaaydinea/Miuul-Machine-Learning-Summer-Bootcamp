@@ -146,3 +146,18 @@ target_summary_with_numerical_data(df, "survived", "age")
 
 for col in numerical_cols:
     target_summary_with_numerical_data(df, "survived", col)
+
+"""
+                age
+survived           
+0         30.626179
+1         28.343690
+                age
+survived           
+0         30.626179
+1         28.343690
+               fare
+survived           
+0         22.117887
+1         48.395408
+"""
