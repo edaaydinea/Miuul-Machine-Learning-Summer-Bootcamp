@@ -43,7 +43,7 @@ international companies, as well as access to the materials to be presented with
 
 ### Program projects
 
-- [Lead Calculation with Rule-Based Classification](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/58c70bbff0821c0df160aebe21689df238611ea9/Module%202/05%20-%20Exercises/Rule-Based%20Classification.ipynb)
+- [Calculating Potential Customer Yield with Rule-Based Classification](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/58c70bbff0821c0df160aebe21689df238611ea9/Module%202/05%20-%20Exercises/Rule-Based%20Classification.ipynb)
 
 ### Program Certificates
 
