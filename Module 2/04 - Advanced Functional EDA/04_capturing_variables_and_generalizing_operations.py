@@ -41,10 +41,11 @@ def grab_col_names(dataframe, categorical_threshold=10, cardinal_threshold=30):
                         str(dataframe[col].dtypes) in ["category", "object", "bool"]]
 
     nominal_cols = [col for col in dataframe.columns if
-                    dataframe[col].nunique() < 10 and dataframe[col].dtypes in ["int64", "float64"]]
+                    dataframe[col].nunique() < categorical_threshold and dataframe[col].dtypes in ["int64", "float64"]]
 
     cardinal_cols = [col for col in dataframe.columns if
-                     dataframe[col].nunique() > 20 and str(dataframe[col].dtypes) in ["category", "object"]]
+                     dataframe[col].nunique() > cardinal_threshold and str(dataframe[col].dtypes) in ["category",
+                                                                                                      "object"]]
 
     categorical_cols = categorical_cols + nominal_cols
     categorical_cols = [col for col in categorical_cols if col not in cardinal_cols]
