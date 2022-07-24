@@ -34,17 +34,28 @@ international companies, as well as access to the materials to be presented with
             - [Pandas Exercises](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/58c70bbff0821c0df160aebe21689df238611ea9/Module%202/05%20-%20Exercises/Pandas%20Exercises.ipynb)
             - [Project: Rule-Based Classification](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/58c70bbff0821c0df160aebe21689df238611ea9/Module%202/05%20-%20Exercises/Rule-Based%20Classification.ipynb)
 - **_Feature Engineering_** (July 18 - 24, 2022)
-- **_Introduction to Machine Learning_**
-- **_Regression Problems_**
-- **_Classification Problems_**
-- **_Advanced Tree Methods_**
-- **_Unsupervised Learning_**
-- **_Machine Learning Pipeline_**
+    - Lecture Notes
+        - [01 - Outliers](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/01%20-%20Outliers.ipynb)
+        - [02 - Missing Values](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/02%20-%20Missing%20Values.ipynb)
+        - [03 - Encoding Scaling](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/03%20-%20Encoding%20Scaling.ipynb)
+        - [04 - Feature Extraction](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/04%20-%20Feature%20Extraction.ipynb)
+        - [05 - Application](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/05%20-%20Application.ipynb)
+    - Capstone Projects
+        - [Capstone Project - 1 : Diabetes Feature Engineering]()
+        - [Capstone Project - 2 : Telco Customer Churn Feature Engineering]()
+- **_Machine Learning - Module 1_** (July 25 - 31, 2022)
+    - **Introduction to Machine Learning**
+    - **Linear Regression**
+    - **Logistic Regression**
+-
 
 ### Program projects
 
 - [Calculating Potential Customer Yield with Rule-Based Classification](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/58c70bbff0821c0df160aebe21689df238611ea9/Module%202/05%20-%20Exercises/Rule-Based%20Classification.ipynb)
+- [Capstone Project - 1 : Diabetes Feature Engineering]()
+- [Capstone Project - 2 : Telco Customer Churn Feature Engineering]()
 
 ### Program Certificates
 
-- ![Python Programming for Data Science](Certificates/certificate-of-completion-for-veri-bilimi-icin-python-programlama.jpg)
+- ![Python Programming for Data Science](Certificates/python_programming_for_data_science.jpg)
+- ![Feature Engineering](Certificates/feature_engineering.png)
