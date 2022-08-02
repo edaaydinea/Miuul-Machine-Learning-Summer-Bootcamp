@@ -1,2 +1,5 @@
 *.idea
 *.pdf
+*.vscode
+*catboost_info
+*__pycache__
