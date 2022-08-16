@@ -42,7 +42,7 @@ international companies, as well as access to the materials to be presented with
       - [05 - Application](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/05%20-%20Application.ipynb)
     - Capstone Projects
       - [Capstone Project - 2 : Diabetes Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%203/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering.ipynb)
-      - [Capstone Project - 3 : Telco Customer Churn Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/fe6a3a9c7feb469df29c38f647c7f96f9abdd73f/Module%203/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering.ipynb)
+      - [Capstone Project - 3 : Telco Customer Churn Feature Engineering](Module%203/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering.ipynb)
 
 - **_Machine Learning - Module 1_** (July 25 - 31, 2022)
   - Lecture Notes
@@ -53,8 +53,7 @@ international companies, as well as access to the materials to be presented with
     - **Logistic Regression**
       - [03 - Logistic Regression](Module%204/03%20-%20Logistic%20Regression.ipynb)
   - Capstone Projects
-    - [Capstone Project - 4 : Baseball Salary Prediction with Machine Learning](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%204/Capstone%20Project%204%20-%20Salary%20Prediction%20in%20Machine%20Learning.ipynb)
-
+    - [Capstone Project - 4 : Baseball Salary Prediction with Machine Learning](Module%204/Capstone%20Project%204%20-%20Salary%20Prediction%20in%20Machine%20Learning.ipynb)
 
 - **_Machine Learning - Module 2_** (August 1 - 7,2022)
   - Lecture Notes
@@ -70,7 +69,6 @@ international companies, as well as access to the materials to be presented with
     - [Capstone Project - 5 : Creating a House Price Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model/Capstone%20Project%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model.ipynb)
     - [Capstone Project - 6 : Creating a Customer Churn Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model.ipynb)
 
-
 - **_Machine Learning - Module 3_** (August 8 - 14, 2022)
   - Lecture Notes
     - Unsupervised Learning
@@ -84,7 +82,7 @@ international companies, as well as access to the materials to be presented with
 
 - [Capstone Project - 1 :Calculating Potential Customer Yield with Rule-Based Classification](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%202/05%20-%20Exercises/Capstone%20Project%201%20-%20Calculating%20Potential%20Customer%20Yield%20with%20Rule-Based%20Classification.ipynb)
 - [Capstone Project - 2 : Diabetes Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%203/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering.ipynb)
-- [Capstone Project - 3 : Telco Customer Churn Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/fe6a3a9c7feb469df29c38f647c7f96f9abdd73f/Module%203/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering.ipynb)
+- [Capstone Project - 3 : Telco Customer Churn Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%203/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering.ipynb)
 - [Capstone Project - 4 : Baseball Salary Prediction with Machine Learning](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%204/Capstone%20Project%204%20-%20Salary%20Prediction%20in%20Machine%20Learning.ipynb)
 - [Capstone Project - 5 : Creating a House Price Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model/Capstone%20Project%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model.ipynb)
 - [Capstone Project - 6 : Creating a Customer Churn Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model.ipynb)
