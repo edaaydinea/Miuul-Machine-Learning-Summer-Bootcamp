@@ -66,8 +66,8 @@ international companies, as well as access to the materials to be presented with
     - **Imbalanced Datasets**
       - [Imbalanced Datasets](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/8172641675d70a3542de36d040accf41581abd81/Module%205/Dengesiz-Veri-Seti.ipynb)
   - Capstone Projects
-    - [Capstone Project - 5 : Creating a House Price Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model/Capstone%20Project%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model.ipynb)
-    - [Capstone Project - 6 : Creating a Customer Churn Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model.ipynb)
+    - [Capstone Project - 5 : Creating a House Price Prediction Model](Module%205/Capstone%20Project%20-%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model/Capstone%20Project%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model.ipynb)
+    - [Capstone Project - 6 : Creating a Customer Churn Prediction Model](Module%205/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model.ipynb)
 
 - **_Machine Learning - Module 3_** (August 8 - 14, 2022)
   - Lecture Notes
@@ -76,17 +76,17 @@ international companies, as well as access to the materials to be presented with
     - Machine Learning Pipeline
       - [Machine Learning Pipeline](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Machine%20Learning%20Pipeline/End%20to%20End%20Diabetes%20Machine%20Learning%20Pipeline.ipynb)
   - Capstone Projects
-    - [Capstone Project - 7: Customer Segmentation with K-Means](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Capstone%20Project%206%20-%20Customer%20Segmentation%20with%20K-Means/Customer%20Segmentation%20with%20K-Means.ipynb)
+    - [Capstone Project - 7: Customer Segmentation with K-Means](Module%206/Capstone%20Project%206%20-%20Customer%20Segmentation%20with%20K-Means/Customer%20Segmentation%20with%20K-Means.ipynb)
 
 ### Program projects
 
-- [Capstone Project - 1 :Calculating Potential Customer Yield with Rule-Based Classification](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%202/05%20-%20Exercises/Capstone%20Project%201%20-%20Calculating%20Potential%20Customer%20Yield%20with%20Rule-Based%20Classification.ipynb)
-- [Capstone Project - 2 : Diabetes Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%203/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering.ipynb)
-- [Capstone Project - 3 : Telco Customer Churn Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%203/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering.ipynb)
-- [Capstone Project - 4 : Baseball Salary Prediction with Machine Learning](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%204/Capstone%20Project%204%20-%20Salary%20Prediction%20in%20Machine%20Learning.ipynb)
-- [Capstone Project - 5 : Creating a House Price Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model/Capstone%20Project%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model.ipynb)
-- [Capstone Project - 6 : Creating a Customer Churn Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model.ipynb)
-- [Capstone Project - 7 : Customer Segmentation with K-Means](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Capstone%20Project%206%20-%20Customer%20Segmentation%20with%20K-Means/Customer%20Segmentation%20with%20K-Means.ipynb)
+- [Capstone Project - 1 :Calculating Potential Customer Yield with Rule-Based Classification](Module%202/05%20-%20Exercises/Capstone%20Project%201%20-%20Calculating%20Potential%20Customer%20Yield%20with%20Rule-Based%20Classification.ipynb)
+- [Capstone Project - 2 : Diabetes Feature Engineering](Module%203/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering.ipynb)
+- [Capstone Project - 3 : Telco Customer Churn Feature Engineering](Module%203/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering.ipynb)
+- [Capstone Project - 4 : Baseball Salary Prediction with Machine Learning](Module%204/Capstone%20Project%204%20-%20Salary%20Prediction%20in%20Machine%20Learning.ipynb)
+- [Capstone Project - 5 : Creating a House Price Prediction Model](Module%205/Capstone%20Project%20-%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model/Capstone%20Project%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model.ipynb)
+- [Capstone Project - 6 : Creating a Customer Churn Prediction Model](Module%205/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model.ipynb)
+- [Capstone Project - 7 : Customer Segmentation with K-Means](Module%206/Capstone%20Project%206%20-%20Customer%20Segmentation%20with%20K-Means/Customer%20Segmentation%20with%20K-Means.ipynb)
 
 ### Program Certificates
 
