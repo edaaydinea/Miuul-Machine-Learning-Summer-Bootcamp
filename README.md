@@ -37,9 +37,9 @@ international companies, as well as access to the materials to be presented with
   - Lecture Notes
     - [01 - Outliers](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/01%20-%20Outliers.ipynb)
     - [02 - Missing Values](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/02%20-%20Missing%20Values.ipynb)
-      - [03 - Encoding Scaling](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/03%20-%20Encoding%20Scaling.ipynb)
-      - [04 - Feature Extraction](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/04%20-%20Feature%20Extraction.ipynb)
-      - [05 - Application](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/05%20-%20Application.ipynb)
+    - [03 - Encoding Scaling](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/03%20-%20Encoding%20Scaling.ipynb)
+    - [04 - Feature Extraction](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/04%20-%20Feature%20Extraction.ipynb)
+    - [05 - Application](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/ca797061e0f8751da8c8709f96a6f4d89f736627/Module%203/05%20-%20Application.ipynb)
     - Capstone Projects
       - [Capstone Project - 2 : Diabetes Feature Engineering](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%203/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering/Capstone%20Project%202%20-%20Diabetes%20Feature%20Engineering.ipynb)
       - [Capstone Project - 3 : Telco Customer Churn Feature Engineering](Module%203/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering/Capstone%20Project%203%20-%20Telco%20Customer%20Churn%20Feature%20Engineering.ipynb)
