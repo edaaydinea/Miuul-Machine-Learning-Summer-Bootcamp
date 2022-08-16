@@ -74,7 +74,7 @@ international companies, as well as access to the materials to be presented with
     - Unsupervised Learning
       - [Unsupervised Learning](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Unsupervised%20Learning/Unsupervised%20Learning.ipynb)
     - Machine Learning Pipeline
-      - [Machine Learning Pipeline](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Machine%20Learning%20Pipeline/End%20to%20End%20Diabetes%20Machine%20Learning%20Pipeline.ipynb)
+      - [End-to-End Machine Learning Pipeline for Diabetes Dataset](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Machine%20Learning%20Pipeline/End%20to%20End%20Diabetes%20Machine%20Learning%20Pipeline.ipynb)
   - Capstone Projects
     - [Capstone Project - 7: Customer Segmentation with K-Means](Module%206/Capstone%20Project%206%20-%20Customer%20Segmentation%20with%20K-Means/Customer%20Segmentation%20with%20K-Means.ipynb)
 
