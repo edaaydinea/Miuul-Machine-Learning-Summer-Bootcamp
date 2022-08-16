@@ -78,7 +78,7 @@ international companies, as well as access to the materials to be presented with
     - Machine Learning Pipeline
       - [Machine Learning Pipeline](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Machine%20Learning%20Pipeline/End%20to%20End%20Diabetes%20Machine%20Learning%20Pipeline.ipynb)
   - Capstone Projects
-    - [Capstone Project - 7: Customer Segmentation with K-Means]()
+    - [Capstone Project - 7: Customer Segmentation with K-Means](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Capstone%20Project%206%20-%20Customer%20Segmentation%20with%20K-Means/Customer%20Segmentation%20with%20K-Means.ipynb)
 
 ### Program projects
 
@@ -88,7 +88,7 @@ international companies, as well as access to the materials to be presented with
 - [Capstone Project - 4 : Baseball Salary Prediction with Machine Learning](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%204/Capstone%20Project%204%20-%20Salary%20Prediction%20in%20Machine%20Learning.ipynb)
 - [Capstone Project - 5 : Creating a House Price Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model/Capstone%20Project%205%20-%20Creating%20a%20House%20Price%20Prediction%20Model.ipynb)
 - [Capstone Project - 6 : Creating a Customer Churn Prediction Model](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%205/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model/Capstone%20Project%20-%206%20-%20Creating%20a%20Customer%20Churn%20Prediction%20Model.ipynb)
-- [Capstone Project - 7 : Customer Segmentation with K-Means]()
+- [Capstone Project - 7 : Customer Segmentation with K-Means](https://github.com/edaaydinea/Miuul-Machine-Learning-Summer-Bootcamp/blob/main/Module%206/Capstone%20Project%206%20-%20Customer%20Segmentation%20with%20K-Means/Customer%20Segmentation%20with%20K-Means.ipynb)
 
 ### Program Certificates
 
