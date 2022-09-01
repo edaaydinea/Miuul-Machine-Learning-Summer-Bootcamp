@@ -93,3 +93,4 @@ international companies, as well as access to the materials to be presented with
 - ![Python Programming for Data Science](Certificates/python_programming_for_data_science.jpg)
 - ![Feature Engineering](Certificates/feature_engineering.png)
 - ![Machine Learning](Certificates/machine_learning.png)
+- ![Completion Certificate](Certificates/completion_certificate.png)
